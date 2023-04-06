@@ -1,0 +1,11 @@
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\bin\Debug\CalculatorFormProject.exe.config
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\bin\Debug\CalculatorFormProject.exe
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\bin\Debug\CalculatorFormProject.pdb
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.csproj.AssemblyReference.cache
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.Calculator.resources
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.Properties.Resources.resources
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.csproj.GenerateResource.cache
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.csproj.CoreCompileInputs.cache
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.exe
+C:\Users\vered\source\repos\CalculatorFormProject\CalculatorFormProject\obj\Debug\CalculatorFormProject.pdb
